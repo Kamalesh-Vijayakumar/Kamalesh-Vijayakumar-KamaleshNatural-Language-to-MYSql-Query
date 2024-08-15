@@ -1,1 +1,1 @@
-pip install torch transformers faiss-cpu mysql-connector-python pandas streamlit google-generativeai
+pip install torch transformers scikit-learn mysql-connector-python pandas streamlit google-generativeai
