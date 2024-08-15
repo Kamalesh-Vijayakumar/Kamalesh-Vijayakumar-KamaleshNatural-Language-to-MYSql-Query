@@ -1,0 +1,7 @@
+torch==2.0.1
+transformers==4.31.0
+faiss-cpu==1.7.4
+mysql-connector-python==8.0.33
+pandas==2.0.3
+streamlit==1.24.1
+google-generativeai==0.1.0
