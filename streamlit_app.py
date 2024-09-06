@@ -68,7 +68,7 @@ text_embeddings = compute_text_embeddings(df, list(text_columns))
 
 # Set up Gemini API
 
-GEMINI_API_KEY = "AIzaSyDmA9t8VmctLvQ8yDQztgq_yL7gkNzbcyc"  # Replace with your actual API key
+GEMINI_API_KEY = "use your gemini api key"  # Replace with your actual API key
 genai.configure(api_key=GEMINI_API_KEY)
 
 
